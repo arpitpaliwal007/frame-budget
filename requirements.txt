@@ -1,0 +1,8 @@
+torch>=2.4
+transformers>=4.57
+accelerate
+datasets
+pillow
+numpy>=1.26
+scipy
+matplotlib
